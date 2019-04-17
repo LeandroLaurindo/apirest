@@ -1,0 +1,5 @@
+com\produtos\apirest\models\Produto.class
+com\produtos\apirest\resourses\ProdutoResourse.class
+com\produtos\apirest\repository\ProdutoRepositoty.class
+com\produtos\apirest\ApirestApplication.class
+com\produtos\apirest\config\SwaggerConfig.class
